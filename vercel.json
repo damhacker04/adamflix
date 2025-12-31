@@ -27,7 +27,8 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie"
     },
-    "buildCommand": "npm ci && npm run build && composer install --no-dev --optimize-autoloader",
+    "buildCommand": "npm ci && npm run build && npx --yes @vercel/composer install --no-dev --optimize-autoloader"
+,
     "outputDirectory": "public"
 
 }
