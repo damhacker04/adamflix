@@ -14,7 +14,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://adamflix.vercel.app",
-        "APP_KEY": "add API key here from your .env file",
+        "APP_KEY": "base64:mBuYmd/xY3+SszPbhXmUyAo5bf+GUvlQRgLxb4bU+9s=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
